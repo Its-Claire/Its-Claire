@@ -3,6 +3,10 @@
 I'm a **Fullstack Developer** who loves building websites and web apps.  
 Currently exploring React JS, Next.js, and backend with Node.js/PHP.
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Claire&layout=compact&theme=radical" height="180em">
+
 ## 🚀 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
