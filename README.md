@@ -1,7 +1,7 @@
 # Hi there, I'm Rizki Cahya 2nd 👋
 
 I'm a **Fullstack Developer** who loves building websites and web apps.  
-Currently exploring React JS, Next.js, and backend with Node.js/PHP.
+Currently exploring React JS, Vue.js, Next.js, and backend with Node.js/PHP.
 
 ---
 
